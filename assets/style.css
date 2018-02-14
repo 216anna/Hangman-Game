@@ -1,0 +1,12 @@
+header {
+	text-align: center;
+	font-size: 60px;
+	font-weight: bolder;
+}
+#HangmanGame {
+	text-align: center;
+	font-size: 30px;
+}
+body {
+	background-color: purple;
+}
